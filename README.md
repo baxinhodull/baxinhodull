@@ -5,9 +5,13 @@
 
 ---
 
-Sou um profissional de tecnologia dinâmico e proativo, apaixonado por **Análise de Dados**, **Automação** e **Infraestrutura**. Atualmente, curso **Ciência da Computação** e aplico meus conhecimentos como **Estagiário de TI na Procuradoria Geral do Estado do Rio de Janeiro (PGE-RJ)**.
+Olá! Me chamo Carlos Henrique Costa da Silva Junior, sou do Rio de Janeiro e estou no 8º período de Ciência da Computação na Estácio.
 
-Utilizo ferramentas como Python, Shell Script, Power BI, Zabbix e Docker para criar soluções eficientes e gerar insights estratégicos a partir de dados.
+Atuo com tecnologia desde 2018, com experiências em suporte técnico, análise de dados e automação de processos. Já trabalhei na linha de frente do suporte ao usuário, garantindo estabilidade e eficiência na infraestrutura, e hoje foco no desenvolvimento de soluções com Python, Power BI, SQL, Shell Script e Docker, integrando dados e automatizando tarefas repetitivas para otimizar rotinas e apoiar a tomada de decisões.
+
+Atualmente, sou estagiário na Procuradoria Geral do Estado do Rio de Janeiro (PGE-RJ), onde aplico esses conhecimentos em projetos internos de melhoria contínua.
+
+Sou apaixonado por resolver problemas com tecnologia, aprender novas ferramentas e contribuir para projetos que fazem a diferença.
 
 ---
 
