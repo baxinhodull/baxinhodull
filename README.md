@@ -11,13 +11,16 @@ Estou sempre em busca de novos desafios e aprendizados, utilizando ferramentas c
 
 ---
 
-### 👨‍💻 Sobre Mim
+### 💼 Experiência Profissional
 
-* 🎓 Cursando o 7º período de Ciência da Computação na **Faculdade Estácio de Sá**.
-* 🚀 Focado em oportunidades de nível júnior nas áreas de **Dados, Infraestrutura ou QA**.
-* 💡 Experiência prática em automação com **Python** e **Shell Script**, e visualização de dados com **Power BI**.
-* ⚙️ Conhecimento em monitoramento de sistemas com **Zabbix** e **Grafana**.
-* 📍 Morando no **Rio de Janeiro, Brasil**.
+* **Estagiário de TI** | *Procuradoria Geral do Estado do RJ* (03/2024 – Atual)
+    * Automação de tarefas com Shell Script e Python.
+    * Monitoramento de sistemas com Zabbix e criação de dashboards em Grafana.
+    * Desenvolvimento e manutenção de painéis analíticos em Power BI.
+
+* **Técnico de Suporte Júnior** | *CREB* (12/2021 – 12/2023)
+    * Manutenção de hardware, impressoras (incluindo 3D) e infraestrutura de rede.
+    * Suporte aos usuários nos sistemas Tasy e GLPI.
 
 ---
 
@@ -101,6 +104,38 @@ Estou sempre em busca de novos desafios e aprendizados, utilizando ferramentas c
     </td>
   </tr>
 </table>
+
+---
+
+### 🌱 Atualmente Estudando
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#-linguagens-de-programação">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
+    </td>
+     <td align="center" width="96">
+      <a href="#-cloud">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" />
+      </a>
+      <br>AWS
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🏅 Certificações em Destaque
+
+* **Análise de Dados para Tomada de Decisão** – Estácio
+* **Dominando Zabbix do Básico ao Avançado** – Udemy
+* **Desenvolvimento Rápido de Aplicações em Python** – Estácio
+* **Desenvolvimento Web com Python e Django** – DIO.me
+* **Fundamentos de Data Analytics com Power BI** – DIO.me
+* **Conceitos de Docker, Redes, Linux e Cibersegurança** – DIO.me
 
 ---
 
