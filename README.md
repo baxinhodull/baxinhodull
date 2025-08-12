@@ -37,7 +37,7 @@ Sou apaixonado por resolver problemas com tecnologia, aprender novas ferramentas
 - 🎓 Estudante de Ciência da Computação – 7º período na Estácio  
 - 💼 Estagiário de TI na PGE-RJ  
 - 📧 chjunior05@gmail.com | 📞 (21) 98883-5047  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/carlos-henrique-638476201/) | [GitHub](https://github.com/baxinhodull)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/carlos-henrique-638476201/) | [GitHub](https://github.com/baxinhodull)|[streamlit](https://dashboarddesalariosareadedado.streamlit.app)
 
 ---
 
